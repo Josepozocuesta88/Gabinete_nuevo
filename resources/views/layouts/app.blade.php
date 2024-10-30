@@ -12,7 +12,7 @@
     <meta name="Distribution" content="Global">
     <meta name="Revisit-After" content="30 days">
     <meta name="Rating" content="General">
-    <title>Profesional Congelados Florys | Baena (Córdoba)</title>
+    <title>Redes y Componentes | Puente Genil (Córdoba)</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta content="Coderthemes" name="author" />
 

@@ -44,7 +44,7 @@
         <div class="tab-pane show active" id="tarjetasOfertas">
             <div class="favoritos">
                 <button id="scrollLeft" class="scrollLeft btn btn-light ">
-                    <i class="bi bi-arrow-left-circle font-24 text-primary"></i>
+                    <i class="bi bi-arrow-left-circle font-24 text-danger"></i>
                 </button>
                 <div id="categorias"
                     class="gap-3 pt-3 categorias scrollbar row-cols-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-4 bg-light">

@@ -29,7 +29,7 @@
                         <input type="search" class="form-control dropdown-toggle" placeholder="Buscar articulos..."
                             id="top-search" name="query">
                         <span class="mdi mdi-magnify search-icon"></span>
-                        <button class="input-group-text btn btn-primary" type="submit">Buscar</button>
+                        <button class="input-group-text btn text-white" style="background-color:#293480;" type="submit">Buscar</button>
                     </div>
                 </form>
             </div>

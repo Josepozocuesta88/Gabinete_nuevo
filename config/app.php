@@ -33,14 +33,14 @@ return [
 
     'title' => 'Profesional Congelados Florys | Baena (Córdoba)',
 
-    'favicon' => 'images/web/logo.png',
+    'favicon' => 'images/web/logo.jpg',
 
-    'hero_index' => 'images/web/hero-index.png',
+    'hero_index' => 'images/web/hero-index.jpg',
 
     'hero_gift' => 'images/web/gift.jpg',
 
 
-    'logo' => 'images/web/logo.png',
+    'logo' => 'images/web/logo.jpg',
 
     'caja' => 'si',
 
@@ -72,7 +72,7 @@ return [
     */
 
     // 'color' => '#3490dc',
-    'points' => 'Flory`s coins',
+    'points' => 'Gabinete coins',
     // --color-principal: {{ config('app.color') }};
 
     /*
